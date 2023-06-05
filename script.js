@@ -7,7 +7,8 @@ const projects = [
     {name: 'Rotating Navigation', url: './RotatingNav/rotatingnav.html'},
     {name: 'Scroll Animation', url: './ScrollAnimation/scrollanim.html'},
     {name: 'Sound Board', url: './SoundBoard/soundboard.html'},
-    {name: 'Split Landing', url: './SplitLanding/splitlanding.html'}
+    {name: 'Split Landing', url: './SplitLanding/splitlanding.html'},
+    {name: 'Dad Jokes', url: './DadJokes/dadjokes.html'}
 ];
 let index = 1;
 const table = document.getElementById('table');
