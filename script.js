@@ -8,7 +8,8 @@ const projects = [
     {name: 'Scroll Animation', url: './ScrollAnimation/scrollanim.html'},
     {name: 'Sound Board', url: './SoundBoard/soundboard.html'},
     {name: 'Split Landing', url: './SplitLanding/splitlanding.html'},
-    {name: 'Dad Jokes', url: './DadJokes/dadjokes.html'}
+    {name: 'Dad Jokes', url: './DadJokes/dadjokes.html'},
+    {name: 'Event KeyCodes', url: './EventKeyCodes/eventkeycodes.html'}
 ];
 let index = 1;
 const table = document.getElementById('table');
